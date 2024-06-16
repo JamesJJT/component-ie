@@ -10,9 +10,7 @@
     "react-ga": "^2.7.0"
   },
   "devDependencies": {
-    "@babel/core": "^7.24.7",
-    "@babel/preset-env": "^7.24.7",
-    "@babel/preset-react": "^7.24.7"
+    "@ombiel/babel-preset-aek": "2.x.x"
   },
   "repository": {
     "type": "git",

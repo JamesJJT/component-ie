@@ -4,6 +4,7 @@
   "description": "Test components",
   "main": "index.js",
   "dependencies": {
+    "@ombiel/aek-webpack": "^1.2.0",
     "prop-types": "^15.7.2",
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
